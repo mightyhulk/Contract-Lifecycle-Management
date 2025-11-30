@@ -1,4 +1,4 @@
-# Contract Lifecycle Management (CLM) Automation System
+# Contract Lifecycle Management (CLM) Automation 
 
 This project implements an intelligent platform for Contract Lifecycle Management (CLM) that can ingest, process, analyze, and provide insights about contract documents.
 
